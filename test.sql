@@ -1,2 +1,3 @@
-ALTER TABLE layoffs_stagging2
-DROP COLUMN row_numb;
+SELECT COUNT(DISTINCT Country)
+FROM customer
+#24
